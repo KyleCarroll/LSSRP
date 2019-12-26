@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
  ## 12/25/2019
  ### Added
  - Loading Screen
+ - Area of Play
+ - Peacetime
+ - In-Game Time
+ - Date
  
  ### Changed
  - LEO Vehicle Speeds (Decreased)
