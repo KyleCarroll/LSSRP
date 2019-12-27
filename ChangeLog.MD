@@ -18,3 +18,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
  
  ### Removed
  - Nothing
+## 12/26/2019
+### Added
+- Nothing
+
+### Changed
+- Reverted BK names due to bug
+- AI Responding to calls
+
+### Removed
+- Adminrevive due to bug
