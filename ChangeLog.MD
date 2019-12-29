@@ -41,6 +41,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - AOP/ PT now show who ran the command
 - Fixed the weapon wheel and vMenu disappearing after dying
 - Interaction Menus due to old one not working
+- Scoreboard
 
 ### Removed
 - RPDeath entirely
