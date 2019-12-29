@@ -18,6 +18,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
  
  ### Removed
  - Nothing
+ 
 ## 12/26/2019
 ### Added
 - Nothing
@@ -28,3 +29,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Removed
 - Adminrevive due to bug
+
+## 12/29/2019
+### Added
+- Adminrevive
+- Respawn
+- Revive
+
+### Changed
+- BK Names are back
+- AOP/ PT now show who ran the command
+- Fixed the weapon wheel and vMenu disappearing after dying
+- Interaction Menus due to old one not working
+
+### Removed
+- RPDeath entirely
