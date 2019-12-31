@@ -45,3 +45,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Removed
 - RPDeath entirely
+
+## 12/30/2019
+### Added
+- Audi R8 2020
+- Mercedes C63S
+- Paying for fuel
+
+### Changed
+- HUD for FrFuel
+
+### Removed
+- Nothing
