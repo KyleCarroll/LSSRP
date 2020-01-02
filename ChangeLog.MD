@@ -57,3 +57,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Removed
 - Nothing
+
+## 1/1/2020
+### Added
+- Bank Robberies
+
+### Changed
+- Color of scoreboard
+- Color of Nearest Postal
+
+### Removed
+- Nothing
