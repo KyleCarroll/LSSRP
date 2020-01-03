@@ -68,3 +68,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Removed
 - Nothing
+
+## 1/3/2020
+### Added
+- Fire Vehicles
+- Fire Script
+- Fire Station(s)
+- Fire Clothing
+- Pillbox Hospital Interior
+- Central LS Hospital Interior
+- MP Ped Beards
+- Emote Menu
+
+### Changed
+- Opening of Emote Menu
+
+### Removed
+- Blinkers (temporarily)
