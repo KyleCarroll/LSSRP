@@ -111,11 +111,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## 1/5/2020
 ### Added
-- Nothing
+- Staff Panel
 
 ### Changed
 - All discord links
 - Fixed the donation whitelist
+- Fixed Staff Panel
 
 ### Removed
-- Nothing
+- EasyAdmin
