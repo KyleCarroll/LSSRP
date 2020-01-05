@@ -100,7 +100,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - 2020 Ford F-450 Platinum
 
 ### Changed
-- FD11 now has it's primary siren, before it has nothing
+- FD11 now has it's primary siren, before it had nothing
 - Fixed FD Helmets
 - Fixed Beards
 
