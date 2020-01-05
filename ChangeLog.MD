@@ -108,3 +108,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Removed
 - Nothing
+
+## 1/5/2020
+### Added
+- Nothing
+
+### Changed
+- All discoed links
+
+### Removed
+- Nothing
