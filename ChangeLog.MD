@@ -85,3 +85,24 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Removed
 - Blinkers (temporarily)
+
+## 1/4/2020
+### Added
+- 2015 Chevrolet Caprice
+- 2020 Ford F-350 King Ranch
+- 2017 Ford F-150 Raptor
+- 2018 Dodge Charger(RBA)
+- 2018 Jeep Wrangler Sahara
+- 2011 Ford Crown Victoria
+- 2018 Dodge Charger(RB)
+- 2014 Dodge Charger
+- 2018 Ford Fusion
+- 2020 Ford F-450 Platinum
+
+### Changed
+- FD11 now has it's primary siren, before it has nothing
+- Fixed FD Helmets
+- Fixed Beards
+
+### Removed
+- Nothing
