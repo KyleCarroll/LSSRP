@@ -99,6 +99,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - 2018 Ford Fusion
 - 2020 Ford F-450 Platinum
 - SASP Uniforms
+- Department Vests
 
 ### Changed
 - FD11 now has it's primary siren, before it had nothing
