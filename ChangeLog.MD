@@ -128,7 +128,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Vstancer
 
 ### Changed
-- Nothing
+- Top Speed of LEO Raptor
 
 ### Removed
 - Texas Motor Speedway
