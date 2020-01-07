@@ -120,3 +120,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Removed
 - EasyAdmin
+
+##1/6/2020
+### Added
+- 2014 Mitsubishi Lancer Evolution X
+- 1994 Nissan 180SX
+- Vstancer
+
+### Changed
+- Nothing
+
+### Removed
+- Texas Motor Speedway
