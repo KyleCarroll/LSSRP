@@ -132,3 +132,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Removed
 - Texas Motor Speedway
+
+##1/7/2020
+### Added
+- New VStancer
+- JDM Rims (Sports)
+
+### Changed
+- Nothing
+
+### Removed
+- Old VStancer
