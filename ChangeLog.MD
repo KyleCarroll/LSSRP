@@ -121,7 +121,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Removed
 - EasyAdmin
 
-##1/6/2020
+## 1/6/2020
 ### Added
 - 2014 Mitsubishi Lancer Evolution X
 - 1994 Nissan 180SX
@@ -133,7 +133,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Removed
 - Texas Motor Speedway
 
-##1/7/2020
+## 1/7/2020
 ### Added
 - New VStancer
 - JDM Rims (Sports)
