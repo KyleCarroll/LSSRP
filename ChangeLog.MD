@@ -143,3 +143,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Removed
 - Old VStancer
+
+## 1/8/2019
+### Added
+- Race Server (Will be referred to as RS in future changes)
+- Glowing Rotors on braking
+- Traction Control (Toggled with Z)
+
+### Changed
+- Loading Screen (RS)
+- Liveries on Hotring (RS)
+- Updated FRFuel (RS)
+- Fixed Whitelist (RS)
+- Fixed SO1 lights
+- Fixed Torque
+
+### Removed
+- Nothing
