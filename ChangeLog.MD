@@ -161,3 +161,22 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Removed
 - Nothing
+
+## 1/25/2020
+### Added
+- ESX Base
+- Inventory system
+- Vehicle Storage
+- New Economy
+- Police Job
+- Car Dealership Job
+- Car Dealership
+- Speed Cameras
+- Garages
+- Weapon Shops
+
+### Changed
+- Nothing
+
+### Removed
+- Old Economy System (WIP)
